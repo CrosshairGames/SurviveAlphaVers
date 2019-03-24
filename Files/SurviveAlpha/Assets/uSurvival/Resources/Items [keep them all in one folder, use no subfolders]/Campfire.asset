@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70db9fc6c4aa74ae993b4a30d13c0a57, type: 3}
+  m_Name: Campfire
+  m_EditorClassIdentifier: 
+  maxStack: 1
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: A camp fire
+  image: {fileID: 21300000, guid: 553fc0fad74b7594f99b050f5f8b623a, type: 3}
+  drop: {fileID: 1132771559290226876, guid: a57a3fdd2a44b3f49b3f65a87de71e85, type: 3}
+  modelPrefab: {fileID: 7487604686930917430, guid: a57a3fdd2a44b3f49b3f65a87de71e85,
+    type: 3}
+  keepUsingWhileButtonDown: 0
+  successfulUseSound: {fileID: 0}
+  failedUseSound: {fileID: 0}
+  emptySound: {fileID: 0}
+  cooldown: 0
+  shoulderLookAtWhileHolding: 0
+  useDirectly: 0
+  structurePrefab: {fileID: 7487604686930917430, guid: a57a3fdd2a44b3f49b3f65a87de71e85,
+    type: 3}
+  previewDistance: 2
+  gridResolution: 1
+  availableRotations:
+  - positionOffset: {x: 0, y: 0.1, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+  buildToleranceCollision: 0.1
+  buildToleranceAir: 0.1

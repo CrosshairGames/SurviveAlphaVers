@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca52a2d0c310fc4ca4d26b3c6ed943a, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  maxStack: 100
+  maxDurability: 1000
+  destroyable: 0
+  toolTip: Rock used for crafting
+  image: {fileID: 21300000, guid: 689fd10029da6b34a97159d0b1cd0319, type: 3}
+  drop: {fileID: 6738948398778140040, guid: a0e22ae6258ebc741a0ac0c211c5a648, type: 3}
+  modelPrefab: {fileID: 5153251450467664217, guid: a0e22ae6258ebc741a0ac0c211c5a648,
+    type: 3}

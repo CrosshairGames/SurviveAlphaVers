@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21cb495ffbca0404d878640680165899, type: 3}
+  m_Name: '[NEW]PrefabBrush Save(0)'
+  m_EditorClassIdentifier: 
+  prefabList:
+  - {fileID: 1353958480919336, guid: daebc40c53a1326429bd834d7a2e4b12, type: 2}
+  brushSize: 1
+  minBrushSize: 0.1
+  maxBrushSize: 20
+  minObjectsPerBrush: 1
+  maxObjectsPerBrush: 100
+  prefabsPerStroke: 1
+  checkLayer: 0
+  checkTag: 0
+  checkSlope: 0
+  requiredTagMask: 0
+  requiredLayerMask: 0
+  minRequiredSlope: 0
+  maxRequiredSlope: 0
+  prefabOriginOffset: {x: 0, y: 0, z: 0}
+  prefabRotationOffset: {x: 0, y: 0, z: 0}
+  parentingStyle: 0
+  parent: {fileID: 0}
+  rotateToMatchSurface: 0
+  rotateSurfaceDirection: 0
+  randomizeRotation: 0
+  minXRotation: 0
+  maxXRotation: 0
+  minYRotation: 0
+  maxYRotation: 0
+  minZRotation: 0
+  maxZRotation: 0
+  randomizeScale: 0
+  minXScale: 1
+  maxXScale: 1
+  minYScale: 1
+  maxYScale: 1
+  minZScale: 1
+  maxZScale: 1
+  parentList: []
